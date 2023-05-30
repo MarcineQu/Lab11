@@ -1,8 +1,10 @@
 ** Lab11 LEMP **
+
 ---- L – dla Linux;
 ---- E – dla Nginx;
 ---- M – dla MySQL;
 ---- P – dla PHP
+
 **Użyłem bazowych obrazów z Docker Hub, tak jak napisane jest w docker-compose**
 ![image](https://github.com/MarcineQu/Lab11/assets/83167368/f7429d5b-d987-4c1f-9921-4b6ad353f566)
 **Zmieniłem port 6666, dlatego że wyświetlało mi się że ten port jest niezabezpieczony, zmieniłem na 80**
